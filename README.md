@@ -11,4 +11,4 @@ Key Features:
 
 Who It's For? 
 
-Friend groups, study peers, classrooms, small businesses, remote teams — anyone who needs a shared space to think, plan, and coordinate.
+Friend groups, study peers, classrooms, small businesses, remote teams, anyone who needs a shared space to think, plan, and coordinate.
