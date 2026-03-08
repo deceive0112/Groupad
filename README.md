@@ -1,4 +1,4 @@
-Group+pad is a collaborative notes and planning platform built for groups of all sizes — whether you're coordinating with friends, managing a team, or running a classroom.
+Group+pad is a collaborative notes and planning platform built for groups of all sizes, whether you're coordinating with friends, managing a team, or running a classroom.
 
 Key Features:
 * Group Notepads (GC) — Create shared note spaces where members can collaborate in real time. Choose between Professional Mode (admin-controlled task completion) or Group Mode (open collaboration for everyone).
