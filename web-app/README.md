@@ -1,75 +1,14 @@
-# Nuxt Minimal Starter
+Group+pad is a collaborative notes and planning platform built for groups of all sizes — whether you're coordinating with friends, managing a team, or running a classroom.
 
-Look at the [Nuxt documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+Key Features:
+* Group Notepads (GC) — Create shared note spaces where members can collaborate in real time. Choose between Professional Mode (admin-controlled task completion) or Group Mode (open collaboration for everyone).
+* Shared Calendar — Plan events, meetings, birthdays, and trips together. Everyone can view, pin, and react to upcoming events, with automatic notifications as dates approach.
+* User Profiles — Personalize your account to make the experience feel like yours.
+* Public Posts — Share notes or calendar plans publicly. Others can react and discover your content.
+* Poke System — Get noticed or notice others. Build a list of users you want to invite into a Group+pad.
+* Follow System — Follow users without adding them as friends. Keep your follow list private if you prefer.
+* Text-Only by Design — To keep the community focused and friendly, uploads are limited to text and links only, no images, video, or audio.
 
-## Setup
+Who It's For? 
 
-Make sure to install dependencies:
-
-```bash
-# npm
-npm install
-
-# pnpm
-pnpm install
-
-# yarn
-yarn install
-
-# bun
-bun install
-```
-
-## Development Server
-
-Start the development server on `http://localhost:3000`:
-
-```bash
-# npm
-npm run dev
-
-# pnpm
-pnpm dev
-
-# yarn
-yarn dev
-
-# bun
-bun run dev
-```
-
-## Production
-
-Build the application for production:
-
-```bash
-# npm
-npm run build
-
-# pnpm
-pnpm build
-
-# yarn
-yarn build
-
-# bun
-bun run build
-```
-
-Locally preview production build:
-
-```bash
-# npm
-npm run preview
-
-# pnpm
-pnpm preview
-
-# yarn
-yarn preview
-
-# bun
-bun run preview
-```
-
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+Friend groups, study peers, classrooms, small businesses, remote teams — anyone who needs a shared space to think, plan, and coordinate.
