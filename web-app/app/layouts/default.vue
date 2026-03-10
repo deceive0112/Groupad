@@ -1,7 +1,7 @@
 <script setup lang="ts">
 </script>
 <template>
-  <div class="min-h-screen bg-gray-900 text-gray-900 dark:text-white">
+  <div class="min-h-screen text-gray-900 dark:text-white mx-60">
     <web-header/>
     <main>
       <slot/>
