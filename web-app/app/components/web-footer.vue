@@ -5,7 +5,7 @@
       <!-- Add navigation links or other content here -->
       <ul>
         <li><a href="/about">About Us</a></li>
-        <li><a href="/contact">Contact</a></li>
+        <li><a href="/contact">Contacts</a></li>
       </ul>
     </div>
   </footer>
