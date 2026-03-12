@@ -1,11 +1,9 @@
-<script setup lang="ts">
-</script>
 <template>
   <div class="min-h-screen text-gray-900 dark:text-white mx-60">
-    <web-header/>
+    <web-header />
     <main>
-      <slot/>
+      <slot />
     </main>
-    <web-footer/>
+    <web-footer />
   </div>
 </template>
