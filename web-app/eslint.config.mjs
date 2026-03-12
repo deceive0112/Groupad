@@ -1,3 +1,4 @@
+// @ts-check
 import globals from "globals"
 import pluginVue from "eslint-plugin-vue"
 import perfectionist from "eslint-plugin-perfectionist"
