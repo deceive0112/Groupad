@@ -3,11 +3,13 @@
   "type": "module",
   "private": true,
   "scripts": {
-    "build": "nuxt build",
     "dev": "nuxt dev",
-    "generate": "nuxt generate",
+    "build": "nuxt build",
     "preview": "nuxt preview",
-    "postinstall": "nuxt prepare"
+    "generate": "nuxt generate",
+    "postinstall": "nuxt prepare",
+    "lint": "eslint --ignore-pattern \"app/components/ui/*\" .",
+    "lint:fix": "eslint --ignore-pattern \"app/components/ui/*\" . --fix"
   },
   "dependencies": {
     "@nuxt/eslint": "1.15.2",
@@ -27,7 +29,11 @@
     "vue-router": "^4.6.4"
   },
   "devDependencies": {
+    "eslint-plugin-perfectionist": "^5.6.0",
+    "eslint-plugin-vue": "^10.8.0",
+    "globals": "^17.4.0",
     "tw-animate-css": "^1.4.0",
-    "typescript": "^5.9.3"
+    "typescript": "^5.9.3",
+    "vue-eslint-parser": "^10.4.0"
   }
 }
