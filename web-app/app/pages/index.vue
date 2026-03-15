@@ -107,6 +107,22 @@ definePageMeta({
             </div>
           </div>
         </div>
+        <div class="bg-gray-600 col-span-3 h-62">
+          <div class="grid grid-cols-3 gap-2 items-center text-center">
+            <div class="bg-gray-400 col-span-3 h-30 p-2">
+              Post-6
+            </div>
+            <div class="bg-gray-400 col-span-1 h-30 p-2">
+              React
+            </div>
+            <div class="bg-gray-400 col-span-1 h-30 p-2">
+              Poke
+            </div>
+            <div class="bg-gray-400 col-span-1 h-30 p-2">
+              Share
+            </div>
+          </div>
+        </div>
       </div>
     </div>
   </div>
